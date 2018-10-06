@@ -1,2 +1,2 @@
 # Wuerzburg-mastes-thesis
-Pac bio Nanopore
+Oxford Nanopore
